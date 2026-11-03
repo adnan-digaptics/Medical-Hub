@@ -1,0 +1,8 @@
+2026-09-15 22:29:13 | FAIL | to=patient@example.com | We received your MidWest Medical Hub appointment request | php-mail-failed
+2026-09-15 22:40:47 | FAIL | to=calendar.test@example.com | We received your MidWest Medical Hub appointment request | php-mail-failed
+2026-09-15 22:43:10 | FAIL | to=Managers@digaptics.com | We received your MidWest Medical Hub appointment request | php-mail-failed
+2026-09-15 22:44:00 | FAIL | to=Managers@digaptics.com | Your MidWest Medical Hub appointment was updated | php-mail-failed
+2026-09-15 23:07:04 | FAIL | to=Managers@digaptics.com | Your MidWest Medical Hub appointment was updated | php-mail-failed
+2026-09-16 02:22:09 | FAIL | to=tttt@gmail.com | We received your message to MidWest Medical Hub | php-mail-failed
+2026-09-16 02:23:47 | FAIL | to=tttt@gmail.com | Your MidWest Medical Hub message was updated | php-mail-failed
+2026-09-16 02:34:37 | FAIL | to=Michael@gmail.com | We received your MidWest Medical Hub appointment request | php-mail-failed
